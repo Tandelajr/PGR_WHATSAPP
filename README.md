@@ -5,6 +5,8 @@ O script contém o discurso do Presidente JLO que fala sobre boas práticas e co
 
 Link da fonte do Script: https://abiliotandela.me
 
+Mais informações https://web.whatsapp.com/send?phone=244956388829&text&app_absent=0
+
 
 # Tutorial
 
