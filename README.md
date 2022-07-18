@@ -14,9 +14,7 @@ O script contém o discurso do Presidente JLO que fala sobre boas práticas e co
 
 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/179631572-c85835bb-9987-478a-aa1a-559e7f944f7b.jpg" width="900px" />
-</div><br>
+<br>
 
 Link da fonte do Script: https://abiliotandela.me <br>
 
@@ -33,7 +31,9 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 6) Agora só apertar ENTER para executar o script, e vai começar a mandar o script todo para o usuario ( O telefone do burlador pode travar ).
 
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/67243528/179631572-c85835bb-9987-478a-aa1a-559e7f944f7b.jpg" width="900px" />
+</div>
 
 <p align="center">
   Ei! Tão bom ver você aqui.. <br>Eu sou o Abilio Tandela,<strong> Engenheiro Informático</strong>! <br> Eu também sou <strong>Analista de Segurança Cibernetica e Programador </strong>.<br />
