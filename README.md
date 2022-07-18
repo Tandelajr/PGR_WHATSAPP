@@ -61,9 +61,7 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiliotandela/" /></a>
 </p>  
 
-<a href="https://www.linkedin.com/in/abiliotandela/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiliotandela/" /></a>
-</p>  
+
 ## 💻 Tecnologias e Ferramentas
 
 <p align="center">
