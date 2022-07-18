@@ -8,12 +8,12 @@
 
 
 </span>
-Este Script foi criado por mim, para desencorajar burladores pelo mau uso de determinadas plataformas.
+Este Script foi criado para desencorajar burladores pelo mau uso de plataformas financeiras .
 O script contém o discurso do Presidente JLO que fala sobre boas práticas e conduta do cidadão Angolano
 
 Link da fonte do Script: https://abiliotandela.me
 
-Mais informações https://web.whatsapp.com/send?phone=244956388829&text&app_absent=0
+Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_absent=0
 
 
 # Tutorial
