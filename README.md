@@ -12,9 +12,7 @@ Este Script foi criado para desencorajar burladores pelo mau uso de plataformas 
 O script contém o discurso do Presidente JLO que fala sobre boas práticas e conduta do cidadão Angolano
 
 
-
-
-<br>
+<p></p>
 
 Link da fonte do Script: https://abiliotandela.me <br>
 
