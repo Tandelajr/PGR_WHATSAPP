@@ -1,7 +1,7 @@
 
 <span align="center">
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> PGR Whatsapp Script</h2>
+<img src="https://user-images.githubusercontent.com/67243528/179631572-c85835bb-9987-478a-aa1a-559e7f944f7b.jpg" width="30px"> PGR Whatsapp Script</h2>
 
 </span>
 
@@ -11,7 +11,7 @@
 Este Script foi criado para desencorajar burladores pelo mau uso de plataformas financeiras .
 O script contém o discurso do Presidente JLO que fala sobre boas práticas e conduta do cidadão Angolano
 
-Link da fonte do Script: https://abiliotandela.me
+Link da fonte do Script: https://abiliotandela.me <br>
 
 Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_absent=0
 
